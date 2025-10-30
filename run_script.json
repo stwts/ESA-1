@@ -1,0 +1,46 @@
+{
+    "task_id": "testtest",
+    "search_terms": "",
+    "params": {
+        "video_subject": "cooking",
+        "video_script": "Here is a glimpse into my day. It started with a quiet morning at home. I made myself breakfast, and good orange juice.  I decided to go for a drive, and the scenery was just beautiful. I even had a little treat, showing off my new nails. It was one of those days that just feels really good.",
+        "video_terms": "None",
+        "video_aspect": "16:9",
+        "video_concat_mode": "sequential",
+        "video_transition_mode": "None",
+        "video_clip_duration": 15,
+        "video_count": 1,
+        "video_source": "local",
+        "num_select": 8,
+        "num_candidate_video": 34,
+        
+        "video_language": "",
+        "voice_name": "zh-CN-XiaoxiaoNeural-Female",
+        "voice_volume": 1.8,
+        "voice_rate": 1,
+        "bgm_type": "random",
+        "bgm_file": "",
+        "bgm_volume": 0.2,
+        "subtitle_enabled": true,
+        "subtitle_position": "bottom",
+        "custom_position": 70.0,
+        "font_name": "MicrosoftYaHeiBold.ttc",
+        "text_fore_color": "#FFFFFF",
+        "text_background_color": true,
+        "font_size": 60,
+        "stroke_color": "#000000",
+        "stroke_width": 1.5,
+        "n_threads": 2,
+        "paragraph_number": 1,
+        "text_list": [
+            "Here is a glimpse into my day.",
+            "It started with a quiet morning at home.",
+            "I made myself breakfast, ",
+            "and good orange juice.",
+            "I decided to go for a drive, ",
+            "and the scenery was just beautiful.",
+            "I even had a little treat, showing off my new nails.",
+            "It was one of those days that just feels really good."
+        ]
+    }
+}

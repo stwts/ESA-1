@@ -1,0 +1,64 @@
+[app]
+video_source = "local"
+hide_config = false
+pexels_api_keys = [ "h17LI1s9hLKpZ1I1Lg6Q9fKMxKk0ttGYrO05kMfTclepnKrV14VSXDmr",]
+pixabay_api_keys = []
+llm_provider = "moonshot"
+pollinations_api_key = ""
+pollinations_base_url = "https://pollinations.ai/api/v1"
+pollinations_model_name = "openai-fast"
+ollama_base_url = "http://localhost:11434/v1"
+ollama_model_name = "qwen:7b"
+openai_api_key = ""
+openai_base_url = ""
+openai_model_name = "gpt-4o-mini"
+moonshot_api_key = "sk-9nZI3XOnnAUZng5342UkMAHt9XxIQQGMq6fK9XeDMJ4vs47L"
+moonshot_base_url = "https://api.moonshot.cn/v1"
+moonshot_model_name = "moonshot-v1-8k"
+oneapi_api_key = ""
+oneapi_base_url = ""
+oneapi_model_name = ""
+g4f_model_name = "gpt-3.5-turbo"
+azure_api_key = ""
+azure_base_url = ""
+azure_model_name = "gpt-35-turbo"
+azure_api_version = "2024-02-15-preview"
+gemini_api_key = ""
+gemini_model_name = "gemini-1.0-pro"
+qwen_api_key = ""
+qwen_model_name = "qwen-max"
+deepseek_api_key = "sk-c82df***********************d0b3"
+deepseek_base_url = "https://api.deepseek.com"
+deepseek_model_name = "deepseek-chat"
+subtitle_provider = "edge"
+endpoint = ""
+material_directory = ""
+enable_redis = false
+redis_host = "localhost"
+redis_port = 6379
+redis_db = 0
+redis_password = ""
+max_concurrent_tasks = 5
+
+[whisper]
+model_size = "large-v3"
+device = "CPU"
+compute_type = "int8"
+
+[proxy]
+
+[azure]
+speech_key = ""
+speech_region = ""
+
+[siliconflow]
+api_key = ""
+
+[ui]
+hide_log = false
+language = "zh"
+tts_server = "azure-tts-v1"
+voice_name = "zh-CN-XiaoxiaoNeural-Female"
+font_name = "MicrosoftYaHeiBold.ttc"
+text_fore_color = "#FFFFFF"
+font_size = 60
